@@ -1,0 +1,2 @@
+this is a file with examples
+of some git commands
